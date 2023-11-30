@@ -81,6 +81,14 @@ let strLength: number = (someValue as string).length;
  -> implements를 사용해서 class에 상속
  -> extends를 사용해서 interface끼리 상속
 
+ <h2>interface</h2>
+
+특징
+ -> 제네릭이란 타입을 마치 함수의 파라미터처럼 사용하는 것
+ -> 제네릭 인터페이스 
+  -> 조건부 타입으로 제네릭 사용
+
+
 
 
 
